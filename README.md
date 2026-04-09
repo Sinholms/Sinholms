@@ -43,8 +43,6 @@ I'm an **Informatics Engineering** undergraduate with a deep passion for buildin
 
 I believe great technology starts from the ground up: from low-level **IoT hardware** to polished **full-stack web applications**. As a proud **Arch Linux** user running **Hyprland + Caelestia Shell**, I'm driven by craftsmanship in both the systems I use and the software I build.
 
-Currently, I'm channeling my research into preparing for the **FIRA 2026 Autonomous Car Challenge** in Canada — pushing the boundaries of autonomous perception and control.
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
