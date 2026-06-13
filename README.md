@@ -5,7 +5,7 @@
 <h1>Muhammad Falih Akbar</h1>
 
 <p>
-  Junior Web Developer · Computer Vision Enthusiast · Informatics Engineering Undergraduate
+  Web & AI Antusiast · Computer Vision Enthusiast · Informatics Engineering Undergraduate
 </p>
 
 <a href="https://git.io/typing-svg">
