@@ -1,174 +1,194 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER / HERO SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <div align="center">
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I'm+sinholms+%F0%9F%91%8B;Computer+Vision+Enthusiast;Full-Stack+Developer;Arch+Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
-  </a>
+<h1>Muhammad Falih Akbar</h1>
 
-  <br/>
+<p>
+  Junior Web Developer · Computer Vision Enthusiast · Informatics Engineering Undergraduate
+</p>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=sinholms&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Computer+Vision+%26+Applied+AI"
+    alt="Typing introduction"
+  >
+</a>
 
-  <br/><br/>
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-falih-akbar-364a1a321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:falihakbar14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Sinholms/my-portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-View-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sinholms&label=Profile%20views&color=70A5FD&style=flat-square" alt="Profile views">
+</p>
 
-  <!-- Contact Badges -->
-  <a href="https://linkedin.com/in/[ENTER_YOUR_VALUE_HERE]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sinholms">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:[ENTER_YOUR_VALUE_HERE]">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia-1F6FEB?style=flat-square" alt="Based in Indonesia">
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20roles%20%7C%20Internships%20%7C%20Freelance-2EA043?style=flat-square" alt="Open to opportunities">
+</p>
 
 </div>
 
-<br/>
+## About Me
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+I am an Informatics Engineering undergraduate and freelance web developer
+focused on building responsive products with **React**, **Next.js**, and
+**TypeScript**. I care about clear user flows, maintainable component
+architecture, accessible interfaces, and practical API integration.
 
-## 🧑‍💻 About Me
+Alongside web development, I build computer vision experiments with **Python**,
+**OpenCV**, and **YOLO**. My goal is to connect solid product engineering with
+applied AI that solves concrete problems.
 
-I'm an **Informatics Engineering** undergraduate with a deep passion for building intelligent systems at the intersection of **Artificial Intelligence**, **Deep Learning**, and **Computer Vision** — specializing in the YOLO family (v8/v11) for real-time object detection.
+- Building web applications for clients and personal projects since 2024.
+- Developing computer vision pipelines for detection, recognition, and
+  real-time processing.
+- Daily-driving Arch Linux and continuously improving my engineering workflow.
+- Open to junior developer roles, internships, collaboration, and freelance
+  work.
 
-I believe great technology starts from the ground up: from low-level **IoT hardware** to polished **full-stack web applications**. As a proud **Arch Linux** user running **Hyprland + Caelestia Shell**, I'm driven by craftsmanship in both the systems I use and the software I build.
+## Featured Work
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sinholms/Deteksi-Plat">Indonesian License Plate Recognition</a></h3>
+      <p>
+        End-to-end plate detection and recognition pipeline based on an
+        academic baseline, extended with YOLO localization and an OpenCV
+        contour fallback.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Otsu thresholding, character segmentation,
+        KNN OCR, CLI workflows, camera input, and evaluation tooling.
+      </p>
+      <p><strong>Stack:</strong> Python · OpenCV · YOLO · scikit-learn</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sinholms/FIXIN">FIXIN</a></h3>
+      <p>
+        Responsive appliance repair application designed for web and Android
+        delivery with a typed React codebase.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Client-side routing, reusable UI,
+        responsive layouts, Android packaging, and a live deployment.
+      </p>
+      <p><strong>Stack:</strong> TypeScript · React · Vite · Capacitor</p>
+      <p><a href="https://fixin.vercel.app"><strong>Live demo →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sinholms/my-portofolio">Personal Portfolio</a></h3>
+      <p>
+        Recruiter-facing portfolio designed to communicate skills, experience,
+        and selected work clearly across screen sizes.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Accessible interaction states, reusable
+        sections, motion design, and a server-side contact route.
+      </p>
+      <p><strong>Stack:</strong> Next.js · TypeScript · Tailwind CSS · Resend</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sinholms/Monkey-Detection">Computer Vision Gesture Prototype</a></h3>
+      <p>
+        Real-time experiment for understanding webcam processing, face
+        landmarks, and landmark-driven interactions.
+      </p>
+      <p>
+        <strong>Highlights:</strong> Live frame processing, facial analysis,
+        hand landmark detection, and reaction classification.
+      </p>
+      <p><strong>Stack:</strong> Python · OpenCV · MediaPipe</p>
+    </td>
+  </tr>
+</table>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Environment
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & Tools
-
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-| # | Project | Description | Stack |
-|:-:|---------|-------------|-------|
-| 🔥 | **[SIPADAM](https://github.com/sinholms/[ENTER_YOUR_VALUE_HERE])** | Web-based early fire warning system integrating IoT and Computer Vision (YOLO) for automatic detection. | `Python` · `YOLO` · `IoT` · `Next.js` |
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sinholms&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinholms&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
+<p><strong>Frontend and application development</strong></p>
 
-  <br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,nodejs,express&theme=dark" alt="Frontend and application development technologies">
+</p>
 
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sinholms&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<p><strong>AI, data, and engineering tools</strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,postgres,mysql,mongodb,docker,git,linux,arch&theme=dark" alt="AI, data, and engineering tools">
+</p>
 
 </div>
 
-<br/>
+| Focus | What I Work With |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Backend and data | Node.js, Express, Python, PostgreSQL, MySQL, MongoDB |
+| Computer vision | OpenCV, YOLO, MediaPipe, scikit-learn |
+| Engineering | Git, Docker, REST APIs, Linux, responsive and accessible UI |
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
+## GitHub Activity
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinholms/sinholms/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinholms/sinholms/output/github-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/sinholms/sinholms/output/github-snake.svg" />
-  </picture>
+<a href="https://github.com/Sinholms">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sinholms&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics">
+</a>
+<a href="https://github.com/Sinholms">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinholms&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Most used languages">
+</a>
+
+<br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Sinholms&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</a>
+
+<br>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sinholms&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
+</a>
 
 </div>
 
-<br/>
+## Contribution Graph
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        FOCUS AREAS SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sinholms/Sinholms/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sinholms/Sinholms/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sinholms/Sinholms/output/github-snake.svg">
+</picture>
 
-## 🎯 Focus Areas
+## Current Focus
 
 ```text
-👁️  Computer Vision        ──►  Fire Detection (SIPADAM) · Object Recognition
-🧠  Deep Learning          ──►  YOLOv8 / YOLOv11 · Real-Time Inference
-🌐  Full-Stack Development ──►  Next.js · React · Node.js · Express.js 
-📡  IoT Integration        ──►  Hardware-Software Bridge · Sensor Systems
-🐧  Linux Enthusiast       ──►  Arch Linux · Hyprland · Caelestia Shell 
+Web Engineering   → Production-oriented React and Next.js applications
+Backend           → API design, database integration, testing, and reliability
+Computer Vision   → Reproducible detection and recognition pipelines
+Career            → Junior roles, internships, collaboration, and freelance work
 ```
 
-<br/>
+## Contact
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+For work, collaboration, or project discussions:
+
+- **Email:** [falihakbar14@gmail.com](mailto:falihakbar14@gmail.com)
+- **LinkedIn:** [Muhammad Falih Akbar](https://www.linkedin.com/in/muhammad-falih-akbar-364a1a321/)
+- **GitHub:** [@Sinholms](https://github.com/Sinholms)
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" />
-
-  <br/>
-
-  > *"The best way to predict the future is to create it."* — **Abraham Lincoln**
-
-  <br/>
-
-  ⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
-
-  <br/>
-
-  **Made with 💙 by [sinholms](https://github.com/sinholms)**
+<sub>Building practical software at the intersection of web engineering and applied AI.</sub>
 
 </div>
