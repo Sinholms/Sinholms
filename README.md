@@ -5,12 +5,12 @@
 <h1>Muhammad Falih Akbar</h1>
 
 <p>
-  Web & AI Antusiast · Computer Vision Enthusiast · Informatics Engineering Undergraduate
+  Web & AI Antusias · Computer Vision Enthusiast · Informatics Engineering Undergraduate
 </p>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Computer+Vision+%26+Applied+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Web+&+AI+Antusias;React+%7C+Next.js+%7C+TypeScript;Computer+Vision+%26+Applied+AI"
     alt="Typing introduction"
   >
 </a>
